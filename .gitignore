@@ -1,3 +1,4 @@
-.\.idea
-.\.gragle
-.\target
+*target
+*.class
+*.jar
+.idea/
